@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.countries {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+.countries h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(44, 2, 61);
+}
+
+.france img{
+    width:500px;
+
+}
+.france h2{
+    font-size: 30px;
+    text-align: center;
+
+}
+.france p{
+    font-size: 20px;
+    text-align:left;
+    color:rgb(49, 48, 48);
+}
+.italy img{
+    width: 500px;
+}
+.italy h3{
+    font-size: 30px;
+    text-align: center;
+}
+.italy p{
+    font-size: 20px;
+    text-align: left;
+    color:rgb(49, 48, 48)
+}
+.usa img{
+    width: 500px;
+}
+.usa h4{
+    font-size: 30px;
+    text-align: center;
+}
+.usa p{
+    font-size: 20px;
+    text-align: left;
+    color: rgb(49, 48, 48);
+}
+.nav-links{
+    display:inline-block;
+    text-decoration:none;
+    color:rgb(16, 1, 39);
+    border:1px solid rgb(100, 5, 5);
+    padding:12px 34px;
+    font-size:20px;
+    background:transparent;
+    cursor:pointer;
+    text-align: center;
+    }
+ .nav-links:hover{
+        border:1px solid #325ce6;
+        background:#325ce6;
+        transition:1s;
+        }

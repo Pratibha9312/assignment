@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.brand{
+    width: 80%;
+    margin: auto;
+    text-align:center;
+    padding-top: 50px;
+}
+.brand h1{
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(44, 2, 61);
+}
+.ysl h2{
+    font-size: 30px;
+    text-align: left;
+}
+.ysl img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.ysl p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.gucci h3{
+    font-size: 30px;
+    text-align: left;
+}
+.gucci img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.gucci p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.dior h4{
+    font-size: 30px;
+    text-align: left;
+}
+.dior img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.dior p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.prada h5{
+    font-size: 30px;
+    text-align: left;
+}
+.prada img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.prada p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.ysls h6{
+    font-size: 30px;
+    text-align: left;
+}
+.ysls img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.ysls p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.givenchy h2{
+    font-size: 30px;
+    text-align: left;
+}
+.givenchy img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.givenchy p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.burberry h3{
+    font-size: 30px;
+    text-align: left;
+}
+.burberry img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.burberry p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.calvin h4{
+    font-size: 30px;
+    text-align: left;
+}
+.calvin img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.calvin p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.ralph h5{
+    font-size: 30px;
+    text-align: left;
+}
+.ralph img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.ralph p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+
+.celine h6{
+    font-size: 30px;
+    text-align: left;
+}
+.celine img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.celine p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.bulgari h2{
+    font-size: 30px;
+    text-align: left;
+}
+.bulgari img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.bulgari p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.adidas h3{
+    font-size: 30px;
+    text-align: left;
+}
+.adidas img{
+    width: 400px;
+    float: left;
+    margin:0 900px 10px 0;
+}
+.adidas p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+.nav-links{
+    display:inline-block;
+    text-decoration:none;
+    color:rgb(16, 1, 39);
+    border:1px solid rgb(100, 5, 5);
+    padding:12px 34px;
+    font-size:20px;
+    background:transparent;
+    cursor:pointer;
+    text-align: center;
+    }
+ .nav-links:hover{
+        border:1px solid #325ce6;
+        background:#325ce6;
+        transition:1s;
+        }
